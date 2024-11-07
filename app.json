@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "my-project",
+    "slug": "my-project",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "aa1473fb-6b5c-4a17-851b-cf1ec7aafca9"
+      }
+    },
+    "android": {
+      "package": "com.habeebullah.myproject",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain", 
+        "backgroundColor": "#ffffff" 
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.habeebullah.myproject",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain", 
+        "backgroundColor": "#ffffff" 
+      }
+    }
+  }
+}
